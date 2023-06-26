@@ -1,6 +1,6 @@
 ### Olá! Me chamo Pedro Siqueira 👋
 
-<p>Tenho 19 anos, estou na etapa final do meu curso técnico em Informática e também cursando Sistemas de Informação. Aqui você encontrará meus projetos como Desenvolvedor Web e C#.</p>
+<p>Tenho 19 anos, estou na etapa final do meu curso técnico em Informática e também cursando Sistemas de Informação.</p>
 
 🖥️ **Linguagens**: HTML, CSS, JavaScript e C#.<br>
 🧰 **Ferramentas**: Visual Studio, Visual Studio Code e MySQL Workbench.<br>
