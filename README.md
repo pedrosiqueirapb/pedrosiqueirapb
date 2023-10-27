@@ -1,9 +1,9 @@
 ### Olá! Me chamo Pedro Siqueira 👋
 
-<p>Atualmente, estou cursando Sistemas de Informação na PUC Minas e estou na etapa final do meu curso técnico em Informática no Grau Técnico. Aqui você pode ver meus projetos como Desenvolvedor Front-End e C#</p>
+<p>Atualmente, estou cursando Sistemas de Informação na PUC Minas e estou na etapa final do meu curso técnico em Informática no Grau Técnico. Aqui você pode ver meus projetos como Desenvolvedor Front-End, em C# e em Python.</p>
 
-💻 **Tecnologias**: HTML, CSS, JavaScript, C# e SQL.<br>
-🧰 **Ferramentas**: Visual Studio, Visual Studio Code e MySQL Workbench.
+🖥 Linguagens: C#, Python, JavaScript e SQL.<br>
+🌐 Tecnologias Web: HTML e CSS.<br>
 
 📫 Caso deseje entrar em contato comigo, você pode me enviar uma mensagem ↙️
 <div>
