@@ -2,8 +2,8 @@
 
 <p>Atualmente, estou cursando Sistemas de Informação na PUC Minas e estou na etapa final do meu curso técnico em Informática no Grau Técnico. Aqui você pode ver meus projetos como Desenvolvedor Front-end, em C# e em Python.</p>
 
-🖥 Linguagens: C#, Python, JavaScript e SQL.<br>
-🌐 Tecnologias Web: HTML e CSS.<br>
+🌐 Tecnologias Web: HTML, CSS e JavaScript.<br>
+🚀 Outras Competências: C#, Python e SQL.<br>
 
 📫 Caso deseje entrar em contato comigo, você pode me enviar uma mensagem ↙️
 <div>
