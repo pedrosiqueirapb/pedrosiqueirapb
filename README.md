@@ -4,7 +4,7 @@
 
 🚀 Linguagens de programação: C#, Python e JavaScript.<br>
 🌐 Tecnologias web: HTML, CSS, Bootstrap e jQuery.<br>
-🔧 Ferramentas-chave: VS Code, Visual Studio, MySQL Workbench e Figma<br>
+🔧 Ferramentas-chave: VS Code, Visual Studio, MySQL Workbench e Figma.<br>
 
 📫 Caso deseje entrar em contato comigo, você pode me enviar uma mensagem ↙️
 <div>
