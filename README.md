@@ -1,19 +1,28 @@
-<div style="display: flex;">
-  <img src="imagens/img.png" alt="">
-</div>
 
-<div style="display: flex;">
-  <h3>Olá! Me chamo Pedro Siqueira 👋</h3>
-  <p>Tenho 19 anos e sou absolutamente apaixonado por tecnologia e inovação. Aqui você pode ver meus projetos como Desenvolvedor Front-end, em C# e em Python. 🖥️</p>
+<img src="imagens/img.png" alt="" align="right">
 
-  <h3>Conhecimentos</h3>
-  🚀 Linguagens de Programação: C#, Python e JavaScript.<br>
-  🌐 Tecnologias Web: HTML, CSS, Bootstrap e jQuery.<br>
-  🔧 Ferramentas: VS Code, Visual Studio, MySQL Workbench, Figma, Trello e Notion.<br>
+<h3>Olá! Me chamo Pedro Siqueira 👋</h3>
+<p align="left">
+  Tenho 19 anos e sou absolutamente apaixonado por tecnologia e inovação. Aqui você pode ver meus projetos como Desenvolvedor Front-end, em C# e em Python. 🖥️
+</p>
 
+<h3>Conhecimentos</h3>
+<p align="left">
+  🚀 Linguagens de Programação: C#, Python e JavaScript.
+</p>
+
+<p align="left">
+  🌐 Tecnologias Web: HTML, CSS, Bootstrap e jQuery.
+</p>
+
+<p align="left">
+  🔧 Ferramentas: VS Code, Visual Studio, MySQL Workbench, Figma, Trello e Notion.
+</p>
+
+<p align="left">
   📫 Se desejar entrar em contato comigo, você pode me enviar uma mensagem ↙️
-  <div>
-    <a href="https://www.linkedin.com/in/pedro-siqueira-pereira-bitarães-a130a9229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo Linkedin"></a>&nbsp
-    <a href="mailto:pedrosiqueirapb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Logo Gmail"></a>
-  </div>
+</p>
+<div>
+  <a href="https://www.linkedin.com/in/pedro-siqueira-pereira-bitarães-a130a9229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo Linkedin"></a>&nbsp
+  <a href="mailto:pedrosiqueirapb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Logo Gmail"></a>
 </div>
