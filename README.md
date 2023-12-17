@@ -6,7 +6,7 @@
   Tenho 19 anos e sou absolutamente apaixonado por tecnologia e inovação. Aqui você pode ver meus projetos como Desenvolvedor Front-end, em C# e em Python. 🖥️
 </p>
 
-<h3>Conhecimentos</h3>
+### <Competências />
 <p align="left">
   🚀 Linguagens de Programação: C#, Python e JavaScript.<br>
   🌐 Tecnologias Web: HTML, CSS, Bootstrap e jQuery.<br>
