@@ -1,9 +1,9 @@
 ### Olá! Me chamo Pedro Siqueira 👋
 <p>Tenho 19 anos e sou absolutamente apaixonado por tecnologia e inovação. Aqui você pode ver meus projetos como Desenvolvedor Front-end, em C# e em Python. 🖥️</p>
 
-#### Competências
-🚀 Linguagens de programação: C#, Python e JavaScript.<br>
-🌐 Tecnologias web: HTML, CSS, Bootstrap e jQuery.<br>
+### Conhecimentos
+🚀 Linguagens de Programação: C#, Python e JavaScript.<br>
+🌐 Tecnologias Web: HTML, CSS, Bootstrap e jQuery.<br>
 🔧 Ferramentas: VS Code, Visual Studio, MySQL Workbench, Figma, Trello e Notion.<br>
 
 📫 Se desejar entrar em contato comigo, você pode me enviar uma mensagem ↙️
