@@ -1,5 +1,5 @@
 
-<img src="imagem/img_github.png" alt="" align="right">
+<img src="imagem/Imagem_GitHub-removebg-preview.png" alt="" align="right">
 
 <h3>Olá! Me chamo Pedro Siqueira 👋</h3>
 <p align="left">
