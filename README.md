@@ -8,9 +8,9 @@
 
 <h3>Conhecimentos</h3>
 <p align="left">
-  🚀 Linguagens de Programação: C#, Python e JavaScript.
-  🌐 Tecnologias Web: HTML, CSS, Bootstrap e jQuery.
-  🔧 Ferramentas: VS Code, Visual Studio, MySQL Workbench, Figma, Trello e Notion.
+  🚀 Linguagens de Programação: C#, Python e JavaScript.<br>
+  🌐 Tecnologias Web: HTML, CSS, Bootstrap e jQuery.<br>
+  🔧 Ferramentas: VS Code, Visual Studio, MySQL Workbench, Figma, Trello e Notion.<br>
 </p>
 
 <p align="left">
