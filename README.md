@@ -1,12 +1,11 @@
 
 <img src="imagem/Imagem_GitHub-removebg-preview.png" alt="" align="right">
 
-<h3>Olá! Me chamo Pedro Siqueira 👋</h3>
+### <Olá! Me chamo Pedro Siqueira 👋 />
 <p align="left">
   Tenho 19 anos e sou absolutamente apaixonado por tecnologia e inovação. Aqui você pode ver meus projetos como Desenvolvedor Front-end, em C# e em Python. 🖥️
 </p>
 
-### <Competências />
 <p align="left">
   🚀 Linguagens de Programação: C#, Python e JavaScript.<br>
   🌐 Tecnologias Web: HTML, CSS, Bootstrap e jQuery.<br>
