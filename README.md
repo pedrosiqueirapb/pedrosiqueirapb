@@ -8,7 +8,7 @@
 
 ### Áreas de aprendizado
 <p align="left">
-  Como desenvolvedor, concentro meus estudos em <b>C#</b>, <b>Python</b>, <b>Angular</b>, <b>CSS</b>, <b>JavaScript</b> e <b>UI Design</b>.
+  Como desenvolvedor, concentro meus estudos em <b>C#</b>, <b>Python</b>, <b>React</b>, <b>CSS</b>, <b>JavaScript</b> e <b>UI Design</b>.
 </p>
 
 ### Tecnologias que uso
