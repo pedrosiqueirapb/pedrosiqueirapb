@@ -8,7 +8,7 @@
 
 ### Áreas de aprendizado
 <p align="left">
-  Como desenvolvedor, concentro meus estudos em <b>C#</b>, <b>Python</b>, <b>JavaScript</b>, <b>Node.js</b>, <b>CSS</b> e <b>React</b>.
+  Como desenvolvedor, concentro meus estudos em <b>C#</b>, <b>Python</b>, <b>JavaScript</b> e <b>CSS</b>.
 </p>
 
 ### Tecnologias que uso
