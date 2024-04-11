@@ -3,7 +3,7 @@
 
 ### Olá! Me chamo Pedro Siqueira 👋
 <p align="left">
-  Tenho 19 anos e sou absolutamente apaixonado por tecnologia e inovação. Aqui você pode ver meus projetos como Desenvolvedor Web, em C# e em Python.
+  Tenho 19 anos e sou entusiasta do mundo da tecnologia e da inovação. Aqui você pode ver meus projetos como Desenvolvedor Web, em C# e em Python.
 </p>
 
 ### Áreas de aprendizado
