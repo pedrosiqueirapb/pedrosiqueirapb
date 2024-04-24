@@ -3,12 +3,12 @@
 
 ### Olá! Me chamo Pedro Siqueira 👋
 <p align="left">
-  Tenho 19 anos e sou apaixonado por tecnologia e inovação. Aqui você pode conferir meus projetos como Desenvolvedor Front-end, em C# e em Python.
+  Tenho 19 anos e sou apaixonado por tecnologia e inovação. Aqui você pode conferir meus projetos como desenvolvedor full-stack.
 </p>
 
 ### Tópicos de estudo
 <p align="left">
-  Como profissional em formação, concentro meus estudos em <b>C#</b>, <b>ASP.NET</b>, <b>CSS</b>, <b>JavaScript</b> e <b>Angular</b>.
+  Como profissional em formação, concentro meus estudos em <b>CSS</b>, <b>JavaScript</b>, <b>C#</b>, <b>ASP.NET</b>, <b>SQL</b> e <b>Angular</b>.
 </p>
 
 ### Tecnologias que uso
