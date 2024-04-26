@@ -8,13 +8,12 @@
 
 ### Tópicos de estudo
 <p align="left">
-  Como profissional em formação, concentro meus estudos em <b>CSS</b>, <b>JavaScript</b>, <b>C#</b>, <b>ASP.NET</b>, <b>SQL</b> e <b>Angular</b>.
+  Como profissional em formação, concentro meus estudos em <b>C#</b>, <b>ASP.NET</b>, <b>SQL</b>, <b>CSS</b>, <b>JavaScript</b> e <b>Angular</b>.
 </p>
 
-### Tecnologias que uso
+### Competências
 <p align="left">
-  🚀 Linguagens de Programação: C# e JavaScript<br>
-  🌐 Desenvolvimento Web: ASP.NET, HTML, CSS, Bootstrap e Angular.<br>
+  🚀 Tecnologias de desenvolvimento: C#, ASP.NET, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
   🔧 Ferramentas: VS Code, Visual Studio, Microsoft SQL Server, Figma, Trello e Notion.<br>
 </p>
 
