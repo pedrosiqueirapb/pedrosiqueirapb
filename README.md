@@ -15,7 +15,7 @@
 <p align="left">
   🚀 Linguagens de Programação: C# e JavaScript<br>
   🌐 Desenvolvimento Web: ASP.NET, HTML, CSS, Bootstrap e Angular.<br>
-  🔧 Ferramentas: VS Code, Visual Studio, MySQL, Microsoft SQL Server, Figma, Trello e Notion.<br>
+  🔧 Ferramentas: VS Code, Visual Studio, Microsoft SQL Server, Figma, Trello e Notion.<br>
 </p>
 
 <p align="left">
