@@ -13,7 +13,7 @@
 
 ### Tecnologias que uso
 <p align="left">
-  🚀 Linguagens de Programação: C#, JavaScript, Python.<br>
+  🚀 Linguagens de Programação: C# e JavaScript<br>
   🌐 Desenvolvimento Web: ASP.NET, HTML, CSS, Bootstrap e Angular.<br>
   🔧 Ferramentas: VS Code, Visual Studio, MySQL, Microsoft SQL Server, Figma, Trello e Notion.<br>
 </p>
