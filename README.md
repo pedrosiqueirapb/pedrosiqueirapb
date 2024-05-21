@@ -6,15 +6,15 @@
   Tenho 20 anos e sou apaixonado por tecnologia e inovação. Aqui você pode conferir meus projetos como desenvolvedor full-stack.
 </p>
 
+### Perfil Profissional
+<p align="left">
+ Como profissional em formação, concentro meus estudos tanto em tecnologias consolidadas quanto em tecnologias emergentes, buscando ampliar minha capacidade de trabalhar em diferentes áreas e plataformas de desenvolvimento.
+</p>
+
 ### Competências
 <p align="left">
   🚀 Dev: C#, ASP.NET, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
   🔧 Ferramentas: VS Code, Visual Studio, Microsoft SQL Server, Microsoft Azure, Figma, Trello e Notion.<br>
-</p>
-
-### Tópicos de estudo
-<p align="left">
- Como profissional em formação, concentro meus estudos tanto em tecnologias consolidadas quanto em tecnologias emergentes, buscando ampliar minha capacidade de trabalhar em diferentes áreas e plataformas de desenvolvimento.
 </p>
 
 <p align="left">
