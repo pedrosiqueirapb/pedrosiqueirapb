@@ -3,7 +3,7 @@
 
 ### Olá! Me chamo Pedro Siqueira 👋
 <p align="left">
-  Tenho 19 anos e sou apaixonado por tecnologia e inovação. Aqui você pode conferir meus projetos como desenvolvedor full-stack.
+  Tenho 20 anos e sou apaixonado por tecnologia e inovação. Aqui você pode conferir meus projetos como desenvolvedor full-stack.
 </p>
 
 ### Tópicos de estudo
@@ -13,7 +13,7 @@
 
 ### Competências
 <p align="left">
-  🚀 Tecnologias de desenvolvimento: C#, ASP.NET, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
+  🚀 Desenvolvimento: C#, ASP.NET, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
   🔧 Ferramentas: VS Code, Visual Studio, Microsoft SQL Server, Figma, Trello e Notion.<br>
 </p>
 
