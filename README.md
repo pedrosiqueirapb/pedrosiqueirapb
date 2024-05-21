@@ -13,7 +13,7 @@
 
 ### Competências
 <p align="left">
-  🚀 Desenvolvimento: C#, ASP.NET, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
+  🚀 Dev: C#, ASP.NET, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
   🔧 Ferramentas: VS Code, Visual Studio, Microsoft SQL Server, Figma, Trello e Notion.<br>
 </p>
 
