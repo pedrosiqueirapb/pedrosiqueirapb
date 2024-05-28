@@ -6,9 +6,8 @@
   Tenho 20 anos e sou apaixonado por tecnologia e inovação. Aqui você pode conferir meus projetos como desenvolvedor full-stack.
 </p>
 
-### Formação
 <p align="left">
-Atualmente, estou cursando Sistemas de Informação na PUC Minas e possuo formação como Técnico em Informática pelo Grau Técnico. Como profissional em formação, concentro meus estudos tanto em tecnologias consolidadas quanto em tecnologias emergentes, buscando ampliar minha capacidade de trabalhar em diferentes áreas e plataformas de desenvolvimento.
+Como profissional em formação, concentro meus estudos tanto em tecnologias consolidadas quanto em tecnologias emergentes, buscando ampliar minha capacidade de trabalhar em diferentes áreas e plataformas de desenvolvimento.
 </p>
 
 ### Competências
