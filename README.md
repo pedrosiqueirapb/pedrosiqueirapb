@@ -12,7 +12,7 @@ Como profissional em formação, concentro meus estudos tanto em tecnologias con
 
 ### Competências
 <p align="left">
-  🚀 Dev: C#, ASP.NET, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
+  🚀 Dev: .NET, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
   🔧 Ferramentas: VS Code, Visual Studio, Microsoft SQL Server, Microsoft Azure, Figma, Trello e Notion.<br>
 </p>
 
