@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-Como profissional em formação, concentro meus estudos tanto em tecnologias consolidadas quanto em tecnologias emergentes, buscando ampliar minha capacidade de trabalhar em diferentes áreas e plataformas de desenvolvimento.
+Como profissional em formação, venho adquirindo experiência na resolução de problemas em um sistema de gestão empresarial, ao mesmo tempo em que me dedico ao estudo do desenvolvimento de software.
 </p>
 
 ### Competências
