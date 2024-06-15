@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-Como profissional em formação, venho adquirindo experiência na resolução de problemas em um sistema de gestão empresarial, ao mesmo tempo em que me dedico ao estudo do desenvolvimento de software.
+Como profissional em formação, tenho adquirido experiência na resolução de problemas em um sistema de gestão empresarial, ao mesmo tempo em que me dedico ao estudo de desenvolvimento de software.
 </p>
 
 ### Competências
