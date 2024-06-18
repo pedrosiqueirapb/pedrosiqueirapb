@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-Como profissional em formação, tenho adquirido experiência na resolução de problemas em um sistema de gestão empresarial, ao mesmo tempo em que me dedico ao estudo de desenvolvimento de software.
+Como profissional em formação, tenho adquirido experiência como analista de sistemas, enquanto me dedico ao estudo de desenvolvimento de software e práticas de DevOps.
 </p>
 
 ### Competências
