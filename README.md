@@ -7,13 +7,13 @@
 </p>
 
 <p align="left">
-Como profissional em formação, tenho adquirido experiência como analista de sistemas, enquanto me dedico ao estudo de desenvolvimento de software e práticas de DevOps.
+Como profissional em formação, tenho adquirido experiência como analista de sistemas, enquanto me dedico ao estudo de desenvolvimento de software e análise de dados.
 </p>
 
 ### Competências
 <p align="left">
   🚀 Dev: .NET, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
-  🔧 Ferramentas: SAP, VS Code, Visual Studio, Microsoft SQL Server, Microsoft Azure e Notion.<br>
+  🔧 Ferramentas: SAP, VS Code, Visual Studio, Microsoft SQL Server, Power BI, Power Automate e Microsoft Azure<br>
 </p>
 
 <p align="left">
