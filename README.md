@@ -13,7 +13,7 @@ Como profissional em formação, tenho adquirido experiência como analista de s
 ### Competências
 <p align="left">
   🚀 Dev: .NET, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
-  🔧 Ferramentas: SAP, VS Code, Visual Studio, Microsoft SQL Server, Power BI, Power Automate e Microsoft Azure<br>
+  🔧 Ferramentas: SAP, Visual Studio, Microsoft SQL Server, Power BI, Power Automate e Microsoft Azure<br>
 </p>
 
 <p align="left">
