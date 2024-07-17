@@ -6,10 +6,6 @@
   Tenho 20 anos e sou apaixonado por tecnologia e inovação. Aqui você pode conferir meus projetos como desenvolvedor full-stack.
 </p>
 
-<p align="left">
-Como profissional em formação, tenho adquirido experiência como analista de sistemas, enquanto me dedico ao estudo de desenvolvimento de software e análise de dados.
-</p>
-
 ### Competências
 <p align="left">
   🚀 Dev: .NET, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e Angular.<br>
