@@ -8,8 +8,8 @@
 
 ### Competências
 <p align="left">
-  🚀 Dev: Python, C#, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e AngularJS<br>
-  🔧 Ferramentas: SAP, Visual Studio, Microsoft SQL Server, MySQL e Microsoft Azure<br>
+  🚀 Dev: C#, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e AngularJS<br>
+  🔧 Ferramentas: SAP, Visual Studio, MySQL e Microsoft Azure<br>
 </p>
 
 <p align="left">
