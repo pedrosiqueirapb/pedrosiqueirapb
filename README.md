@@ -3,7 +3,7 @@
 
 ### Olá! Me chamo Pedro Siqueira 👋
 <p align="left">
-  Sou apaixonado por tecnologia e inovação. Aqui você pode conferir meus projetos como desenvolvedor full-stack.
+  Aqui você pode conferir meus projetos como desenvolvedor full-stack.
 </p>
 
 ### Competências
