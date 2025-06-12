@@ -8,7 +8,7 @@
 
 ### Competências
 <p align="left">
-  🚀 Dev: C#, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e Angular<br>
+  🚀 Dev: C#, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e Elasticsearch<br>
   🔧 Ferramentas: SYDLE ONE, SAP, Visual Studio e MySQL<br>
 </p>
 
