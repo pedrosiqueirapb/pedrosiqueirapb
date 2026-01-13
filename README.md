@@ -6,7 +6,7 @@
   Aqui você pode conferir meus projetos como desenvolvedor full-stack.
 </p>
 
-### Ferramentas e Tecnologias
+### Tecnologias
 <p align="left">
   🚀 Dev: C#, Entity Framework, SQL, HTML, CSS, Bootstrap, JavaScript e Elasticsearch<br>
   🔧 Ferramentas: SYDLE ONE, SAP, Visual Studio e MySQL<br>
